@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/generativist
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jbn.abreka.com
+  * I am generativist (https://keybase.io/generativist) on keybase.
+  * I have a public key ASBP5bLFqLfEIZk5BhvZKOCCg6SxJx6wSIg4EULB9VDF_Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012077c5068be9098920a27dbda3d9239cf7d1d36627e991f45a6b784ee6230a94df0a",
+      "host": "keybase.io",
+      "kid": "01204fe5b2c5a8b7c4219939061bd928e08283a4b1271eb04888381142c1f550c5fd0a",
+      "uid": "408e4b80c0419c8d5b7642cbd73b9719",
+      "username": "generativist"
+    },
+    "merkle_root": {
+      "ctime": 1578940622,
+      "hash": "3d2ec16fb4e85c16c395585d2c91a823c172391c5a6f95121af4e029ec218b6da0a11ecce4407f4997aa49f33cd17fa2bb89f50ef5f543531bda59bbcdf8d49e",
+      "hash_meta": "61622af78995806b2c4caee8258a08fdff4a8688661d138e6429bade96ffdf65",
+      "seqno": 14209641
+    },
+    "service": {
+      "entropy": "mRJAO9rjBBX8qV/CcTNSwHRd",
+      "hostname": "jbn.abreka.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578940649,
+  "expire_in": 504576000,
+  "prev": "18939ecf526579d2b4d7f61490b07693fdd45a28cbe811d8915406da4b3a069f",
+  "seqno": 38,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgT+Wyxai3xCGZOQYb2SjggoOksScesEiIOBFCwfVQxf0Kp3BheWxvYWTESpcCJsQgGJOez1JledK01/YUkLB2k/3UWijL6BHYkVQG2ks6Bp/EICceVX5zmeqoI1xJKjj4/LIEVgj/ITUlF229HCTHBm23AgHCo3NpZ8RAhpWkTRAK8FQPhZ7Qoj+IJcEFbaoVCFsjPR2Y1KCIBzVwmJPKqlrKngi7ajsyubnfy/vxrqaTOFRXWXkr+yQXAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAY0E4txf3XB2XzZ6AB7v7yPsy0xAOyT4oj5IOTa5AKRo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/generativist
+
+==================================================================
